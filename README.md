@@ -1,26 +1,19 @@
-# COMM4190 Spring 2024 - Research Project
+# Social Responsibility Theory - An Overview
 
-* Use this repository for your Research Project
+How often do you speak the truth? According to John Milton, in a fair debate, "in a fair debate, good and truthful arguments will always win out over lies and deceit". This, defined as the self-righting principle, is the basis of social responsibility theory, or a normative theory that substitutes media industry and public responsibility for total media freedom on the one hand and for external control on the other. The theory assumes that society wants to help others based on their own will; no one is forcing them to do so. Social responsibility theory claims to also foster and create productive communities, where the voice of the people is prioritized to promote social good. It gives responsibility to the public to regulate information and limits government intrusion.
 
+An example of social responsibility theory is news production practices. According to the theory news production mediums, such as journalism, should construct balanced stories where their main purpose is to inform rather than take a side. In the modern day, social responsibility can take form in online communities, where the accessibility of media platforms can give one a voice to speak out.
 
-### Overview
+However, the question of what the truth truly is may make the application and interpretation of the theory slightly difficult. Moreover, it is difficult to construct purely informational statements without accidentally taking a side. The theory can be overly optimistic on society's willingness to meet responsibility and take initiative.
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
+### Morality in AI
+According to research conducted by the Journal of Experimental Social Psychology, LLMs are already programmed to make utilitarian choices in moral dilemmas than human beings. With this, I'm interested in exploring LLMs' understanding of 1. Social responsibility theory in the modern world and 2. The decisions made by an LLM in respect to social responsibility theory but in respect to difficult situations or moral dilemmas. With this, I can get a sense of the depth of what extent LLMs understand social responsibility theory.
 
+### AI's Understanding of Social Responsibility Theory
+To begin with, I will evaluate GPT-4's understanding of Social Responsibility. I will also explore the depth of GPT-4's understanding by seeing how it explains social responsibility theory in different scenarios, such as in business and in the press. I will be checking for accuracy and will also be seeing if GPT-4 can bring in insightful points that the sources I provide may not have touched upon.
 
-### Method
+### What Would You Do?
+Exploration of society's ability to take initiative for social good has been explored in the media. In this project, I will be taking scenarios from the American television series , *What Would You Do?* to prompt LLMs with situations to see if they would apply the social responsibility theory and "speak out" to do the right thing.
+However, shows such as *What Would You Do?* illustrate that social responsibility only realistically applies to an extent; sometimes speaking out may seem too difficult, or one might not take initiative to help society. With this, I will be comparing the true actions of participants in episodes of the show to the LLM's response to see not only how well it exhibits the theory, but how well it mimics the actions of humans. 
 
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
-
+### Sources:
