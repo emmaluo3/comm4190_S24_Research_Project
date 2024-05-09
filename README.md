@@ -17,3 +17,9 @@ Exploration of society's ability to take initiative for social good has been exp
 However, shows such as *What Would You Do?* illustrate that social responsibility only realistically applies to an extent; sometimes speaking out may seem too difficult, or one might not take initiative to help society. With this, I will be comparing the true actions of participants in episodes of the show to the LLM's response to see not only how well it exhibits the theory, but how well it mimics the actions of humans. 
 
 ### Sources:
+Baran, Stanley, and Dennis Davis. Mass Communication Theory: Foundations, Ferment, and Future. 8th ed., Oxford University Press, 2021. 
+“Blind Man Robbed When Asking for Help with Wallet | What Would You Do? | WWYD.” YouTube, YouTube, 29 Aug. 2015, www.youtube.com/watch?v=WoJQUd7pqNc. 
+Ganti, Akhilesh. “Social Responsibility in Business: Meaning, Types, Examples, and Criticism.” Investopedia, Investopedia, 2024, www.investopedia.com/terms/s/socialresponsibility.asp. 
+“Onlooker Harasses Parent with Different Race Child L What Would You Do.” YouTube, YouTube, 9 Sept. 2017, www.youtube.com/watch?v=qm1Pd7bctaU. 
+“Study: Humans Rate Artificial Intelligence as More ‘moral’ than Other People.” Georgia State News Hub, 6 May 2024, news.gsu.edu/2024/05/06/study-humans-rate-artificial-intelligence-as-more-moral-than-other-people/. 
+Zhang, Zaixuan, et al. “Artificial Intelligence and moral dilemmas: Perception of ethical decision-making in ai.” Journal of Experimental Social Psychology, vol. 101, July 2022, p. 104327, https://doi.org/10.1016/j.jesp.2022.104327. 
